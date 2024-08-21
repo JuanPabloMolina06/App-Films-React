@@ -9,7 +9,6 @@ import Contato from './Pages/Contato';
 import PageNotFound from './Pages/PageNotFound';
 import Home from './Pages/Home';
 import DetalhesFilme from './Pages/DetalhesFilmes';
-import Header from './Pages/Componentes/Header/Header';
 
 const router = createBrowserRouter([
   {
